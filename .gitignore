@@ -1,0 +1,49 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# My configurations:
+db.ini
+deploy_key_rsa
+
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+
+# R History files
+.Rhistory
+.Rapp.history
+
+# R Session Data files
+.RData
+
+# R User-specific files
+.Ruserdata
+
+# R Example code in package build process
+*-Ex.R
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
