@@ -47,3 +47,6 @@ venv.bak/
 # Spyder project settings
 .spyderproject
 .spyproject
+
+# Visual Studio 2015/2017/2019 cache/options directory
+.vs/
